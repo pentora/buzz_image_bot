@@ -1,0 +1,6 @@
+tweepy
+Pillow
+schedule
+boto3
+python-dotenv
+stability-sdk
